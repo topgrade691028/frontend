@@ -1,0 +1,8 @@
+.background-cog {
+    color: white;
+    transition: opacity 1s;
+}
+
+.background-cog:hover {
+    opacity: .8;
+}

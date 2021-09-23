@@ -1,0 +1,13 @@
+.socials > * {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.badges {
+    display: flex;
+    margin-top : 10px;
+}
+
+.badges > h5 > .badge{
+    margin: 2px;
+}
